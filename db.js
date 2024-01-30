@@ -1,36 +1,36 @@
-const items = require("./data/items");
-const tags = require("./data/tags");
-const brands = require("./data/brands");
-const itemTypes = require("./data/itemTypes");
+const artists = require("./data/artists");
+const places = require("./data/places");
+const labels = require("./data/labels");
+const genres = require("./data/genres");
 
 module.exports = {
-  items,
-  tags,
-  brands,
-  itemTypes
+  artists,
+  places,
+  labels,
+  genres
 }
 
 
-// const items = require("./data/items");
+// const artists = require("./data/artists");
 
 // module.exports = () => {
 
-//   var tags = items.map((i) => i.tags);
-//   tags = [].concat.apply([], tags);
-//   tags = [...new Set(tags)];
+//   var places = artists.map((i) => i.places);
+//   places = [].concat.apply([], places);
+//   places = [...new Set(places)];
 
  
 
-//   var brands = items.map((i) => i.manufacturer);
-//   brands = [...new Set(brands)];
+//   var labels = artists.map((i) => i.manufacturer);
+//   labels = [...new Set(labels)];
 
-//   var itemTypes = items.map((i) => i.itemType);
+//   var itemTypes = artists.map((i) => i.itemType);
 //   itemTypes = [...new Set(itemTypes)];
 
 //   return {
-//     items,
-//     tags,
-//     brands,
+//     artists,
+//     places,
+//     labels,
 //     itemTypes,
 //   };
 // };

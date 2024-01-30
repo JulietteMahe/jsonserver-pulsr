@@ -1,0 +1,96 @@
+{
+    "labels": [
+        {
+            "index": "1",
+            "name": "LA RENNES DES VOYOUS",
+            "isSelected": false
+          },
+          {
+            "index": "2",
+            "name": "BRETONE",
+            "isSelected": false
+          }
+    ],
+    "artists": [
+        {
+            "index": "1",
+            "name": "CAPON",
+            "isSelected": false
+          },
+          {
+            "index": "2",
+            "name": "CLUB Z1Z1",
+            "isSelected": false
+          },
+          {
+              "index": "3",
+              "name": "DUCON&DUCON",
+              "isSelected": false
+          },
+          {
+              "index": "4",
+              "name": "I HATE MODELS",
+              "isSelected": false
+          }
+    ],
+    "places": [
+        {
+            "index": "1",
+            "name": "L'UZINE",
+            "isSelected": false
+          },
+          {
+            "index": "2",
+            "name": "L'ANTIPODE",
+            "isSelected": false
+          },
+          {
+              "index": "3",
+              "name": "AUX PLAISIRS DEMODES",
+              "isSelected": false
+          },
+          {
+              "index": "4",
+              "name": "L'UBU",
+              "isSelected": false
+          },
+          {
+              "index": "5",
+              "name": "88 LIVE CLUB",
+              "isSelected": false
+          }
+    ],
+    "genres": [
+        {
+            "index": "1",
+            "name": "HARDSTYLE",
+            "isSelected": false
+          },
+          {
+            "index": "2",
+            "name": "HARDTECH",
+            "isSelected": false
+          },
+          {
+              "index": "3",
+              "name": "TRANCE",
+              "isSelected": false
+          },
+          {
+              "index": "4",
+              "name": "PSYTRANCE",
+              "isSelected": false
+          },
+          {
+              "index": "5",
+              "name": "ACID",
+              "isSelected": false
+          },
+          {
+              "index": "6",
+              "name": "INDUS",
+              "isSelected": false
+          }
+    ]
+  }
+  

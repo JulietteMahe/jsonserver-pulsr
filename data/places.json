@@ -1,0 +1,27 @@
+[
+  {
+      "index": "1",
+      "name": "L'UZINE",
+      "isSelected": false
+    },
+    {
+      "index": "2",
+      "name": "L'ANTIPODE",
+      "isSelected": false
+    },
+    {
+        "index": "3",
+        "name": "AUX PLAISIRS DEMODES",
+        "isSelected": false
+    },
+    {
+        "index": "4",
+        "name": "L'UBU",
+        "isSelected": false
+    },
+    {
+        "index": "5",
+        "name": "88 LIVE CLUB",
+        "isSelected": false
+    }
+]
