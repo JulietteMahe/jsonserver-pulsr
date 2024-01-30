@@ -2,12 +2,14 @@ const artists = require("./data/artists");
 const places = require("./data/places");
 const labels = require("./data/labels");
 const genres = require("./data/genres");
+const total = require("./data/GenreDatas");
 
 module.exports = {
   artists,
   places,
   labels,
-  genres
+  genres,
+  total
 }
 
 
